@@ -74,6 +74,8 @@ The `CacheModuleOptions` have default value:
 
 #### For more options configuration, please [read it](https://github.com/redis/node-redis/blob/HEAD/docs/client-configuration.md).
 
+#### Service usage:
+
 ```typescript
 @Controller()
 export class AppController {
