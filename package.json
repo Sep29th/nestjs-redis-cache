@@ -73,6 +73,11 @@
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.1.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sep29th/nestjs-redis-cache"
+  },
+  "homepage": "https://github.com/Sep29th/nestjs-redis-cache",
   "jest": {
     "moduleFileExtensions": [
       "js",
